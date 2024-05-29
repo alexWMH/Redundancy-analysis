@@ -1,6 +1,7 @@
 # Redundancy-analysis  
 Usage:  
-```Redundancy_analysis.r -t [transpose taxonomy table] -e [env data] -g [group]  
+```Bash  
+Redundancy_analysis.r -t [transpose taxonomy table] -e [env data] -g [group]  
 ```
 Options:  
 `-t`, `--table`: transpose taxonomy table  
