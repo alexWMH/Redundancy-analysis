@@ -1,8 +1,8 @@
 # Redundancy-analysis  
 Usage:  
-``` Redundancy_analysis.r -t [transpose taxonomy table] -e [env data] -g [group]  
+```Redundancy_analysis.r -t [transpose taxonomy table] -e [env data] -g [group]  
 ```
-Options:
+Options:  
 `-t`, `--table`: transpose taxonomy table  
 `-e`, `--env`  : env data  
 `g`, `--group` : group  
